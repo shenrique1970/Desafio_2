@@ -41,7 +41,7 @@ print(json.dumps(users, indent=2))
 # Link direto: https://platform.openai.com/account/api-keys
 
 # Substitua o texto TODO por sua API Key da OpenAI, ela será salva como uma variável de ambiente.
-openai_api_key = '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'
+openai_api_key = ''
 
 import openai
 
